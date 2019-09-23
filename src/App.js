@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div>
-          <h2>Test de Cache</h2>
+          <h2>Test de Cache 2</h2>
         </div>
         <img src={logo} className="App-logo" alt="logo" />
 
